@@ -1,6 +1,9 @@
 # Recarga365
+
 Django
+
 ------------ Español -------------
+Video: https://youtu.be/Od5LRsEUXOI
 
 Por cuestiones de seguridad no puedo subir el codio del programa
 
@@ -23,6 +26,8 @@ Tambien tuve que realizar la API que mandaría y obtendria toda la informacion n
 
 
 ------------ English -------------
+
+Video: https://youtu.be/Od5LRsEUXOI
 
 For security reasons I can not upload the code of the program
 
