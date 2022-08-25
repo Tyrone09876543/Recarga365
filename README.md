@@ -11,10 +11,15 @@ Por cuestiones de seguridad no puedo subir el codio del programa
 ¿Qué es recarga365?
 
 Es una aplicacion movil en la que puedes ingresar dinero  tu cuenta y:
+
   Comprar tickets de lotería
+  
   Ver los numeros ganadores
+  
   Obtener premios monetarios de los tickets ganadores
+  
   Hacer recargas telefonicas a tu telefono o el de otra persona
+  
   Hacer transferencias a otros usuarios
  
 ¿En qué parte estuve trabajando?
@@ -35,10 +40,15 @@ For security reasons I can not upload the code of the program
 What is recarga365?
 
 It is a mobile application in which you can deposit money into your account and:
+
   Buy lottery tickets
+  
   See the winning numbers
+  
   Get monetary prizes from winning tickets
+  
   Make phone recharges to your phone or someone else's
+  
   Make transfers to other users
  
 What part was I working on?
